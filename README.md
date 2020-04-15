@@ -3,4 +3,4 @@
 
  Here is my video:
  
- [![Everything Is AWESOME](https://i9.ytimg.com/vi/JWWlfK7X__g/mq3.jpg?sqp=CJib1_QF&rs=AOn4CLCvI1UEwGaGj8SvL9qr1Xo4cD3cpw)](https://www.youtube.com/watch?v=JWWlfK7X__g "Everything Is AWESOME")
+ [![Everything Is AWESOME](https://i9.ytimg.com/vi/JWWlfK7X__g/mqdefault.jpgtime=1586931295842&sqp=CLjK2vQF&rs=AOn4CLA1IvsRkWpMXIY58Ltnl-kCcKDIKA)](https://www.youtube.com/watch?v=JWWlfK7X__g "Everything Is AWESOME")
